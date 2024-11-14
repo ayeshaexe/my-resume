@@ -20,7 +20,7 @@ export default function Myresume () {
       <div className="information">
            <h3>BASIC INFORMATION :</h3>
            <p>
-           I'm <b>AYESHA.</b><br />
+           I&apos;m <b>AYESHA.</b><br />
            I Professionaly want to become a <b>Web Developer</b> or a <b>Software Engineer.</b><br />
            I am a student of HSC PART I.
            </p>
@@ -48,7 +48,7 @@ export default function Myresume () {
         <h3>EDUCATION :</h3>
         <p>
           Successfully completed my Matriculation, and now pursuing my studies in College. <br />
-          while being enrolled in <b>GENAI Initaitive</b> Managed by <b>" Sir Kamran Khan Tasoori "</b>
+          while being enrolled in <b>GENAI Initaitive</b> Managed by <b>&quot; Sir Kamran Khan Tasoori &quot;</b>
         </p>
       </div>
       <footer className="footer">
