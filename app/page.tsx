@@ -1,7 +1,5 @@
 import Head from "next/head"
 import './globals.css'
-import Link from "next/link"
-
 export default function Myresume () {
   return(
     <div>
@@ -11,7 +9,7 @@ export default function Myresume () {
       <link rel="icon" href="/favicon.ico" />
       </Head>
       <header className="header">
-        <a href="" className="logo">MY RESUME</a>
+        <a className="logo">MY RESUME</a>
         <nav className="navbar">
           <a href="/about">ABOUT</a>
           <a href="/contact">CONTACT</a>
